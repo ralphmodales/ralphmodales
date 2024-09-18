@@ -7,6 +7,10 @@
 - ⚡ Fun fact: ...
 
 too locked in to care
+
+![02e4a9ad315f321abcfdcdb39991d552](https://github.com/user-attachments/assets/3dc7b99f-b3cf-4499-9e5a-d35ba31a3ca6)
+
+
 <!---
 ralphmodales/ralphmodales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
